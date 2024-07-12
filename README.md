@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 김서린이에요 👋
 
 <!--
 **Kim0330/kim0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
